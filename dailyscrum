@@ -1,0 +1,137 @@
+Daily Scrum Chat #1
+Takım İsmi: Flutter 55
+Ürün İsmi: ExecuTrack
+Katılımcılar:
+•	Gizem Sayın: Product Owner
+•	Funda Nur Civelek: Scrum Master
+•	Emre Gemici: Team Member/Developer
+•	Fatma Nur Kurbanoğlu: Team Member/Developer
+•	Enis Ata Işım: Team Member/Developer
+
+Funda Nur Civelek (Scrum Master)
+Merhaba takım! Hadi günlük scrum toplantımıza başlayalım. Herkes sırayla dün ne yaptığını, bugün ne yapmayı planladığını ve karşılaştığı engelleri paylaşsın.
+
+Emre Gemici (Team Member/Developer)
+Dün: Görev ekleme ve düzenleme modülünü tamamladım.
+Bugün: Bildirim sisteminin entegrasyonuna başlayacağım.
+Engeller: Şu an için herhangi bir engelim yok.
+
+Fatma Nur Kurbanoğlu (Team Member/Developer)
+Dün: Kullanıcı profil yönetimi ve güncellemeleri üzerinde çalıştım.
+Bugün: Görev hatırlatıcıları oluşturma üzerinde çalışacağım.
+Engeller: Test senaryolarında bazı uyumsuzluklar yaşıyorum, Emre'den yardım isteyeceğim.
+
+Enis Ata Işım (Team Member/Developer)
+Dün: Hava durumu API entegrasyonunu tamamladım.
+Bugün: Hava durumu chatbot entegrasyonu üzerinde çalışacağım.
+Engeller: Henüz bir engelim yok, ancak entegrasyon sırasında API limitleri ile ilgili sorunlar yaşayabilirim.
+
+Gizem Sayın (Product Owner)
+Dün: Kullanıcı geri bildirimlerini topladım ve değerlendirdim.
+Bugün: Kullanıcı geri bildirimlerini analiz edip, bir sonraki sprint için önceliklendirme yapacağım.
+Engeller: Kullanıcıların bazı isteklerini teknik olarak nasıl gerçekleştirebileceğimiz konusunda belirsizlikler var, bunları bugün takım ile tartışmak istiyorum.
+
+Funda Nur Civelek (Scrum Master)
+Teşekkürler herkes. Günlük hedeflerinizde başarılar dilerim. Eğer herhangi bir engel veya soru olursa, lütfen hemen bana bildirin. Bugün özellikle Fatma'nın test senaryoları ile ilgili yardıma ihtiyacı olabilir, bu konuda Emre'nin desteği önemli. Ayrıca, Gizem'in belirttiği kullanıcı isteklerini toplantıdan sonra detaylı olarak tartışalım. Hadi iş başına!
+
+
+
+
+
+
+
+
+
+
+
+
+Daily Scrum Chat #2
+Takım İsmi: Flutter 55
+Ürün İsmi: ExecuTrack
+Katılımcılar:
+•	Gizem Sayın: Product Owner
+•	Funda Nur Civelek: Scrum Master
+•	Emre Gemici: Team Member/Developer
+•	Fatma Nur Kurbanoğlu: Team Member/Developer
+•	Enis Ata Işım: Team Member/Developer
+
+Funda Nur Civelek (Scrum Master)
+Günaydın takım! Günlük scrum toplantımıza başlayalım. Herkes sırayla dün ne yaptığını, bugün ne yapmayı planladığını ve karşılaştığı engelleri paylaşsın.
+
+Emre Gemici (Team Member/Developer)
+Dün: Bildirim sisteminin entegrasyonuna başladım ve temel yapı taşlarını oluşturdum.
+Bugün: Bildirim sistemini tamamlamayı ve test etmeyi planlıyorum.
+Engeller: Şu an için herhangi bir engelim yok.
+
+Fatma Nur Kurbanoğlu (Team Member/Developer)
+Dün: Görev hatırlatıcıları oluşturma üzerinde çalıştım ve temel işlevselliği tamamladım.
+Bugün: Görev hatırlatıcıları ile ilgili kullanıcı arayüzünü geliştireceğim.
+Engeller: Henüz herhangi bir engelim yok.
+
+Enis Ata Işım (Team Member/Developer)
+Dün: Hava durumu chatbot entegrasyonu üzerinde çalıştım ve başlangıç adımlarını tamamladım.
+Bugün: Chatbot'un kullanıcı sorularına yanıt verebilmesi için gerekli diyalog akışlarını oluşturacağım.
+Engeller: API yanıt sürelerinde bazen gecikmeler oluyor, bu sorunu çözmeye çalışacağım.
+
+Gizem Sayın (Product Owner)
+Dün: Kullanıcı geri bildirimlerini analiz ettim ve önceliklendirme yaptım.
+Bugün: Takım ile kullanıcı isteklerini tartışacağım ve bir sonraki sprint için planlama yapacağım.
+Engeller: Teknik olarak bazı kullanıcı isteklerinin gerçekleştirilmesi konusunda belirsizlikler var, bunları bugün takım ile çözmeyi planlıyorum.
+
+Funda Nur Civelek (Scrum Master)
+Teşekkürler herkes. Günlük hedeflerinizde başarılar dilerim. Eğer herhangi bir engel veya soru olursa, lütfen hemen bana bildirin. Bugün Enis'in API yanıt süreleri ile ilgili sorunu çözmesi önemli.
+
+
+
+
+
+
+
+
+
+
+Daily Scrum Chat #3
+Takım İsmi: Flutter 55
+Ürün İsmi: ExecuTrack
+Katılımcılar:
+•	Gizem Sayın: Product Owner
+•	Funda Nur Civelek: Scrum Master
+•	Emre Gemici: Team Member/Developer
+•	Fatma Nur Kurbanoğlu: Team Member/Developer
+•	Enis Ata Işım: Team Member/Developer
+
+Funda Nur Civelek (Scrum Master)
+Merhaba takım! Günlük scrum toplantımıza başlayalım. Herkes sırayla dün ne yaptığını, bugün ne yapmayı planladığını ve karşılaştığı engelleri paylaşsın.
+
+Emre Gemici (Team Member/Developer)
+Dün: Bildirim sistemini tamamladım ve test ettim.
+Bugün: Görev yönetim modülünde küçük düzeltmeler yapacağım ve kullanıcı arayüzü iyileştirmeleri üzerinde çalışacağım.
+Engeller: Şu an için herhangi bir engelim yok.
+
+Fatma Nur Kurbanoğlu (Team Member/Developer)
+Dün: Görev hatırlatıcıları ile ilgili kullanıcı arayüzünü geliştirdim.
+Bugün: Kullanıcı arayüzündeki hataları düzelteceğim ve yeni hatırlatıcı özellikleri ekleyeceğim.
+Engeller: Henüz herhangi bir engelim yok.
+
+Enis Ata Işım (Team Member/Developer)
+Dün: Chatbot'un diyalog akışlarını oluşturdum ve test ettim.
+Bugün: Chatbot'un performansını optimize edeceğim ve daha fazla soru ekleyeceğim.
+Engeller: API yanıt sürelerindeki gecikmeler kısmen çözüldü, ancak tamamen giderilmesi için daha fazla çalışma gerekiyor.
+
+Gizem Sayın (Product Owner)
+Dün: Kullanıcı istekleri ve geri bildirimler üzerine takım ile toplantı yaptık.
+Bugün: Kullanıcı geri bildirimlerine dayanarak ürünün sonraki sürümü için öncelikleri belirleyeceğim.
+Engeller: Belirli kullanıcı isteklerinin teknik uygulanabilirliği konusunda hala bazı belirsizlikler var, bunları bugün çözmeyi planlıyorum.
+
+Funda Nur Civelek (Scrum Master)
+Teşekkürler herkes. Günlük hedeflerinizde başarılar dilerim. Eğer herhangi bir engel veya soru olursa, lütfen hemen bana bildirin. Bugün özellikle Enis'in API performans sorunlarını tamamen çözmesi önemli.
+
+
+
+
+
+
+
+
+
+
